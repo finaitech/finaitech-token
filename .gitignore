@@ -1,0 +1,23 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.*
+
+# Editor folders
+.vscode/
+.idea/
+*.swp
+
+# Remix artifacts (if downloaded)
+artifacts/
+cache/
+
+# Node.js (in case you add frontend tools later)
+node_modules/
+npm-debug.log*
